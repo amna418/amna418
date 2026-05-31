@@ -200,41 +200,6 @@ I keep communication clear, professional, and practical so teams know what is re
 
 ---
 
-## Portfolio Direction
-
-This GitHub profile is used to document my technical project management systems, website workflows, marketing strategy frameworks, delivery checklists, case study structures, and selected digital project documentation.
-
-My public repositories will focus on how I think, manage, document, and deliver digital projects professionally.
-
----
-
-## Repositories I Am Building
-
-### technical-project-case-studies
-
-A collection of structured case studies covering websites, web apps, mobile apps, campaign pages, and digital product delivery.
-
-### website-management-playbook
-
-A practical guide for managing website updates, content changes, QA checks, SEO edits, launch reviews, and maintenance workflows.
-
-### git-workflow-templates
-
-Branch naming rules, pull request templates, issue formats, QA checklists, release checklists, and team workflow documentation.
-
-### web-mobile-delivery-checklists
-
-Checklists for planning, managing, reviewing, testing, and launching web and mobile app projects.
-
-### marketing-strategy-systems
-
-Campaign planning frameworks, content strategy templates, case study structures, client reporting formats, and brand positioning documents.
-
-### agency-delivery-templates
-
-Client onboarding formats, project tracking structures, reporting templates, content approval flows, and delivery management systems.
-
----
 
 ## Professional Positioning
 
