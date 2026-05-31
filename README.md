@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="Amna%20Akhtar.png" width="120" height="120" />
-
 <h1>Amna Akhtar</h1>
 
 <p><b>Technical Project Manager · Marketing Strategist · Digital Delivery Lead</b></p>
@@ -26,7 +24,7 @@
 
 I am a Technical Project Manager and Marketing Strategist with **12+ years of experience** delivering digital products across web, mobile, SaaS, and agency environments.
 
-My work sits at the intersection of business strategy and technical execution. I translate client goals into structured project plans, coordinate developers and designers, manage Git-based workflows, oversee QA, and ensure every product ships clean, functional, and on time while keeping all stakeholders informed throughout.
+My work sits at the intersection of business strategy and technical execution. I translate client goals into structured project plans, coordinate developers and designers, manage Git-based workflows, oversee QA, and ensure every product ships clean, functional, and on time — while keeping all stakeholders informed throughout.
 
 ---
 
@@ -145,10 +143,10 @@ My work sits at the intersection of business strategy and technical execution. I
 | `01` | **Understand the business goal** | What problem are we solving? What does success look like? |
 | `02` | **Define clear requirements** | No ambiguity. No assumptions left open. |
 | `03` | **Break into actionable tasks** | Structured. Prioritised. Assigned. |
-| `04` | **Coordinate the full team** | Developers · Designers · Marketers · Stakeholders aligned and unblocked. |
+| `04` | **Coordinate the full team** | Developers · Designers · Marketers · Stakeholders — aligned and unblocked. |
 | `05` | **Manage workflow & timelines** | Proactive communication. Blockers resolved fast. |
 | `06` | **Track progress end to end** | Via Git, task boards, docs, and clear communication. |
-| `07` | **Review quality before delivery** | QA built in throughout, not bolted on at the end. |
+| `07` | **Review quality before delivery** | QA built in throughout — not bolted on at the end. |
 | `08` | **Prepare for launch** | Checklists, sign-offs, go-live readiness. |
 | `09` | **Monitor & improve post-launch** | Ship, learn, iterate. |
 
