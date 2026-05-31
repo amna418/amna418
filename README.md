@@ -24,7 +24,7 @@
 
 I am a Technical Project Manager and Marketing Strategist with **12+ years of experience** delivering digital products across web, mobile, SaaS, and agency environments.
 
-My work sits at the intersection of business strategy and technical execution. I translate client goals into structured project plans, coordinate developers and designers, manage Git-based workflows, oversee QA, and ensure every product ships clean, functional, and on time — while keeping all stakeholders informed throughout.
+My work sits at the intersection of business strategy and technical execution. I translate client goals into structured project plans, coordinate developers and designers, manage Git-based workflows, oversee QA, and ensure every product ships clean, functional, and on time while keeping all stakeholders informed throughout.
 
 ---
 
